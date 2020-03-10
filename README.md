@@ -37,7 +37,7 @@ The relevant code is in src/cljs/phonecat_re_frame/core.cljs
 
 ## Step 0 - Setting up ##
 
-### <a href="https://github.com/dhruvp/angular-phonecat-re-frame/tree/step-0" target="_blank">Diff</a>###
+### <a href="https://github.com/dhruvp/angular-phonecat-re-frame/tree/step-0" target="_blank">Diff</a> ###
 
 ### Explanation ###
 
