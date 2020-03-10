@@ -230,7 +230,7 @@ We then also create a component for displaying the phones list and have it use t
 
 In the above snippet we first subscribe to the phones value in our db. Then, we use the power of hiccup to iterate over each phone in our database (for [phone in @phones]) and display a separate phone-component for it. We use the phone-component function by calling [phone-component phone]. To understand how this works see Mike Thompson's awesome explanation of Reagent components [here](https://github.com/Day8/re-frame/wiki/Creating-Reagent-Components). Note how we don't need to use any new templating language - we just use clojurescript!
 
-## Step 3 - Search##
+## Step 3 - Search ##
 
 ### <a href="https://github.com/dhruvp/angular-phonecat-re-frame/compare/step-2...step-3" target="_blank">Diff</a> ###
 
